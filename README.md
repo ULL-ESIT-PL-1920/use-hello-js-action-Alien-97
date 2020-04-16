@@ -13,4 +13,4 @@ Este repositorio contiene las pruebas de la acción de GitHub contenida en este 
 
 ## Uso
 
-Aquí básicamente creamos un fichero en formato YAML donde importamos esa acción,
+Aquí básicamente creamos un fichero en formato YAML donde hacemos uso de esa acción.
