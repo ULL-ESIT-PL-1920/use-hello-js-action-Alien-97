@@ -1,5 +1,5 @@
 
-![](https://github.com/Alien-97/ULL-ESIT-PL-1920/use-hello-js-action-Alien-97/.github/workflows/main.yml/badge.svg)
+![](https://github.com/Alien-97/use-hello-js-action-Alien-97/.github/workflows/main.yml/badge.svg)
 # Informe Reto _Hello-js Action_
 
 - Autor: Alien Embarec Riadi
