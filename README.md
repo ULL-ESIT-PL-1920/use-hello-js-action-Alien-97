@@ -1,5 +1,5 @@
 
-![](https://github.com/Alien-97/ULL-ESIT-PL-1920/use-hello-js-action-Alien-97/workflows/Using%20Hello%20World/badge.svg)
+![](https://github.com/Alien-97/ULL-ESIT-PL-1920/use-hello-js-action-Alien-97/workflows/Using%20hello%20world/badge.svg)
 
 # Informe Reto _Hello-js Action_
 
